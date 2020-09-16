@@ -1,0 +1,21 @@
+body{
+  background-color: #b0b0b0;
+}
+p{
+  color: #14ff5f;
+}
+em{
+  background-color: #20adbd;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+h1{
+  text-decoration: underline;
+  background-color:
+}
+.lowTitle{
+  color: #4714e0;
+}
